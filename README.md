@@ -98,8 +98,7 @@ The analysis shows that most high-risk drivers accumulate elevated scores due to
 
 Based on the insights and findings above, we would recommend the Fleet Safety and Operations team to consider the following:
 
-●  Several drivers have risk scores ≥ 9.0, indicating significant safety concerns. Implement targeted coaching and corrective training programs for high-risk drivers (risk ≥ 7.0), 
-   with particular focus on speeding control and following distance discipline.
+* Several drivers have risk scores ≥ 9.0, indicating significant safety concerns. Implement targeted coaching and corrective training programs for high-risk drivers (risk ≥ 7.0), with particular focus on speeding control and following distance discipline.
 
 ●  The most common events are over-speeding, lane departure, and unsafe following distance. Create specialized training modules and in-cab alerts for these behaviors, reinforcing safe driving habits through real-
    time feedback and periodic refresher courses.
