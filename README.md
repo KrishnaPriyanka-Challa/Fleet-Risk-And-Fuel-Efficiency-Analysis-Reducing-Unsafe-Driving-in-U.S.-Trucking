@@ -1,35 +1,31 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
-
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+Az National Trucking (ANT), headquartered in California, is a national trucking corporation that provides long-haul trucking services for a variety of general, non-specialized cargo types. The company’s operations span across the western United States, with the exception of hazardous materials (HAZMAT).
+
+With a large fleet and wide operational footprint, ANT faces ongoing challenges in ensuring driver compliance and managing operational efficiency. Non-compliance with safe driving practices — such as speeding, unsafe following, and lane departures — can increase insurance risks, operational costs, and overall safety concerns.
+
+This project leverages ANT’s fleet and driver data to identify critical insights that can reduce risk, improve fuel efficiency, and enhance fleet management decision-making.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Geographic Risk Analysis:** Identifying regions and routes where most abnormal or high-risk driving events occur.
+- **Mileage vs. Risk Correlation:** Evaluating whether higher mileage reduces or increases driver risk.
+- **Fleet Fuel Efficiency & Utilization:** Analyzing which truck models are both fuel-efficient and better utilized.
+- **Risk-Contributing Driving Behaviors:** Determining which abnormal driving events most impact driver risk scores.
+- **Truck Models & Risk Association:** Assessing which truck models are more often linked with higher driver risk.
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
 Targed SQL queries regarding various business questions can be found here [link].
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+An interactive PowerBI dashboard used to report and explore sales trends can be found here [link].
 
 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+The company's main database structure, as seen below, consists of six tables: geolocation,  risk_factor, trucks_mg, truck_mileage, avg_mileage, driver_mileage. 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8833e14d-d6cf-4b6a-b239-19bc0833487c" />
 
-[Entity Relationship Diagram here]
 
 
 
@@ -37,9 +33,9 @@ The companies main database structure as seen below consists of four tables: tab
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+The analysis shows that most high-risk drivers accumulate elevated scores due to lane departures, unsafe following distance, and over-speeding. It also highlights that a small subset of drivers is responsible for a disproportionate share of safety incidents. At the equipment level, Ford and Caterpillar models show lower associated risk scores and stronger safety performance, making them safer options for wider utilization across the fleet.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+<img width="1183" height="737" alt="image" src="https://github.com/user-attachments/assets/c8ee976c-821c-4314-895e-ac42b5456e36" />
 
 
 
