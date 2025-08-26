@@ -24,6 +24,7 @@ An interactive PowerBI dashboard used to report and explore sales trends can be 
 # Data Structure & Initial Checks
 
 The company's main database structure, as seen below, consists of six tables: geolocation,  risk_factor, trucks_mg, truck_mileage, avg_mileage, driver_mileage. 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8833e14d-d6cf-4b6a-b239-19bc0833487c" />
 
 
