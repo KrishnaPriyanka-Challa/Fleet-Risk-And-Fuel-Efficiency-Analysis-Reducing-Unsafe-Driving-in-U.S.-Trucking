@@ -41,58 +41,42 @@ The analysis shows that most high-risk drivers accumulate elevated scores due to
 
 
 # Insights Deep Dive
-### Category 1:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+### Geographic Risk Analysis:
 
-[Visualization specific to category 1]
+* Most abnormal driving events cluster in Downtown Santa Rosa, Downtown Willits, and Highway 18 near Victorville, showing these corridors are hotspots for unsafe driving.
+
+* These incidents are not evenly spread — a few high-density areas account for a large share of risky behavior, suggesting route-specific monitoring could quickly reduce exposure.
 
 
-### Category 2:
+## Mileage vs. Risk Correlation:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Mileage alone does not explain risk — drivers with both high and low mileage show widely different risk scores.
 
-[Visualization specific to category 2]
+* A handful of drivers (A73, A35, A50) have scores ≥ 9.0, showing that risk is driven more by behavior than distance, making targeted interventions more effective than mileage caps.
 
 
-### Category 3:
+**Fleet Fuel Efficiency & Utilization:**
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Ford stands out as the best-performing model — both fuel-efficient and widely used.
 
-[Visualization specific to category 3]
+* Caterpillar, Peterbilt, and Volvo are heavily used but less efficient, raising long-term cost concerns.
 
+* Navistar, Hino, Kenworth, and Crane are efficient but underutilized, suggesting the fleet isn’t fully capturing their potential.
 
-### Category 4:
+**Risk-Contributing Driving Behaviors**
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* The biggest contributors to driver risk are over-speeding, lane departure, and unsafe following distance.
 
-[Visualization specific to category 4]
+* High-risk drivers repeat these behaviors at much higher rates, with A73, A35, and A50 showing persistent issues that require focused retraining.
 
+**Truck Models & Risk Association**
 
+* Oshkosh and Crane show the highest average risk but are used by fewer drivers, so more data is needed before drawing firm conclusions.
+
+* Ford and Caterpillar consistently show lower risk across many drivers, making them safer allocations.
+
+* Volvo, Kenworth, and Navistar combine low risk with solid utilization, making them strong candidates for future fleet expansion.
 
 # Recommendations:
 
