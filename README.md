@@ -46,37 +46,52 @@ The analysis shows that most high-risk drivers accumulate elevated scores due to
 
 * Most abnormal driving events cluster in Downtown Santa Rosa, Downtown Willits, and Highway 18 near Victorville, showing these corridors are hotspots for unsafe driving.
 
-* These incidents are not evenly spread — a few high-density areas account for a large share of risky behavior, suggesting route-specific monitoring could quickly reduce exposure.
+* These incidents are not evenly spread, a few high-density areas account for a large share of risky behavior, suggesting route-specific monitoring could quickly reduce exposure.
+
+<img width="893" height="453" alt="image" src="https://github.com/user-attachments/assets/28edd031-cb51-4e05-922c-8ec60e2e6a2f" />
+
+<img width="1189" height="602" alt="image" src="https://github.com/user-attachments/assets/251185ea-08f0-4ba1-b169-0954cc019bf4" />
 
 
-## Mileage vs. Risk Correlation:
+### Mileage vs. Risk Correlation:
 
-* Mileage alone does not explain risk — drivers with both high and low mileage show widely different risk scores.
+* Mileage alone does not explain risk, drivers with both high and low mileage show widely different risk scores.
 
 * A handful of drivers (A73, A35, A50) have scores ≥ 9.0, showing that risk is driven more by behavior than distance, making targeted interventions more effective than mileage caps.
 
+<img width="713" height="426" alt="image" src="https://github.com/user-attachments/assets/0cbaa0d1-5208-4c54-8498-56ec3a2edbca" />
 
-**Fleet Fuel Efficiency & Utilization:**
 
-* Ford stands out as the best-performing model — both fuel-efficient and widely used.
+### Fleet Fuel Efficiency & Utilization:
+
+* **Ford** stands out as the best-performing model, it is both fuel-efficient and widely used.
 
 * Caterpillar, Peterbilt, and Volvo are heavily used but less efficient, raising long-term cost concerns.
 
 * Navistar, Hino, Kenworth, and Crane are efficient but underutilized, suggesting the fleet isn’t fully capturing their potential.
 
-**Risk-Contributing Driving Behaviors**
+<img width="1920" height="1260" alt="image" src="https://github.com/user-attachments/assets/48064deb-f8ef-4162-b097-ca96124bfe13" />     <img width="893" height="868" alt="image" src="https://github.com/user-attachments/assets/6b19508e-6671-4d28-ab94-7769879f5e2b" />
+
+
+### Risk-Contributing Driving Behaviors:
 
 * The biggest contributors to driver risk are over-speeding, lane departure, and unsafe following distance.
 
 * High-risk drivers repeat these behaviors at much higher rates, with A73, A35, and A50 showing persistent issues that require focused retraining.
 
-**Truck Models & Risk Association**
+<img width="3015" height="1493" alt="image" src="https://github.com/user-attachments/assets/02c1c8ce-f3ea-4b24-be1a-d3b8e794e751" />
+
+
+### Truck Models & Risk Association:
 
 * Oshkosh and Crane show the highest average risk but are used by fewer drivers, so more data is needed before drawing firm conclusions.
 
 * Ford and Caterpillar consistently show lower risk across many drivers, making them safer allocations.
 
 * Volvo, Kenworth, and Navistar combine low risk with solid utilization, making them strong candidates for future fleet expansion.
+
+<img width="1734" height="1239" alt="image" src="https://github.com/user-attachments/assets/9bd87e82-bddb-4899-95ee-65b6f983c0ed" />
+
 
 # Recommendations:
 
