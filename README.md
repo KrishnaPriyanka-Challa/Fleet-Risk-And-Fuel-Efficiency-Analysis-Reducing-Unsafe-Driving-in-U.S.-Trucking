@@ -120,3 +120,6 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 * Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
   
 * Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+
+### Note: 
+This project was developed as part of a group effort. The contributions of my project group were instrumental in its completion. 
