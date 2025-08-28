@@ -48,7 +48,9 @@ The analysis shows that most high-risk drivers accumulate elevated scores due to
 
 * These incidents are not evenly spread, a few high-density areas account for a large share of risky behavior, suggesting route-specific monitoring could quickly reduce exposure.
 
-*    <img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/28edd031-cb51-4e05-922c-8ec60e2e6a2f" />
+<p align="center">
+  <img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/28edd031-cb51-4e05-922c-8ec60e2e6a2f" />
+</p>
 
 
 ### Mileage vs. Risk Correlation:
