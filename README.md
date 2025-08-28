@@ -48,9 +48,7 @@ The analysis shows that most high-risk drivers accumulate elevated scores due to
 
 * These incidents are not evenly spread, a few high-density areas account for a large share of risky behavior, suggesting route-specific monitoring could quickly reduce exposure.
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/28edd031-cb51-4e05-922c-8ec60e2e6a2f" />
-
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/251185ea-08f0-4ba1-b169-0954cc019bf4" />
+*    <img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/28edd031-cb51-4e05-922c-8ec60e2e6a2f" />
 
 
 ### Mileage vs. Risk Correlation:
@@ -59,7 +57,7 @@ The analysis shows that most high-risk drivers accumulate elevated scores due to
 
 * A handful of drivers (A73, A35, A50) have scores ≥ 9.0, showing that risk is driven more by behavior than distance, making targeted interventions more effective than mileage caps.
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/0cbaa0d1-5208-4c54-8498-56ec3a2edbca" />
+*    <img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/0cbaa0d1-5208-4c54-8498-56ec3a2edbca" />
 
 
 ### Fleet Fuel Efficiency & Utilization:
