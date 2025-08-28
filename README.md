@@ -49,7 +49,7 @@ The analysis shows that most high-risk drivers accumulate elevated scores due to
 * These incidents are not evenly spread, a few high-density areas account for a large share of risky behavior, suggesting route-specific monitoring could quickly reduce exposure.
 
 <p align="center">
-  <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/28edd031-cb51-4e05-922c-8ec60e2e6a2f" />
+  <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/28edd031-cb51-4e05-922c-8ec60e2e6a2f" />
 </p>
 
 
@@ -72,7 +72,7 @@ The analysis shows that most high-risk drivers accumulate elevated scores due to
 * Navistar, Hino, Kenworth, and Crane are efficient but underutilized, suggesting the fleet isn’t fully capturing their potential.
 
 <p align="center">
-  <img width="1920" height="1260" alt="image" src="https://github.com/user-attachments/assets/48064deb-f8ef-4162-b097-ca96124bfe13" />     <img width="893" height="868" alt="image" src="https://github.com/user-attachments/assets/6b19508e-6671-4d28-ab94-7769879f5e2b" />
+  <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/48064deb-f8ef-4162-b097-ca96124bfe13" />     <img width="893" height="868" alt="image" src="https://github.com/user-attachments/assets/6b19508e-6671-4d28-ab94-7769879f5e2b" />
 </p>
 
 ### Risk-Contributing Driving Behaviors:
@@ -82,7 +82,7 @@ The analysis shows that most high-risk drivers accumulate elevated scores due to
 * High-risk drivers repeat these behaviors at much higher rates, with A73, A35, and A50 showing persistent issues that require focused retraining.
 
 <p align="center">
-  <img width="3015" height="1493" alt="image" src="https://github.com/user-attachments/assets/02c1c8ce-f3ea-4b24-be1a-d3b8e794e751" />
+  <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/02c1c8ce-f3ea-4b24-be1a-d3b8e794e751" />
 </p>
 
 ### Truck Models & Risk Association:
@@ -94,7 +94,7 @@ The analysis shows that most high-risk drivers accumulate elevated scores due to
 * Volvo, Kenworth, and Navistar combine low risk with solid utilization, making them strong candidates for future fleet expansion.
 
 <p align="center">
-  <img width="1734" height="1239" alt="image" src="https://github.com/user-attachments/assets/9bd87e82-bddb-4899-95ee-65b6f983c0ed" />
+  <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/9bd87e82-bddb-4899-95ee-65b6f983c0ed" />
 </p>
 
 # Recommendations:
