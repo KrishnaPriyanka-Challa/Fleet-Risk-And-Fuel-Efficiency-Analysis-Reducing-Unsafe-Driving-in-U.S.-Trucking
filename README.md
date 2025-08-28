@@ -74,7 +74,7 @@ The analysis shows that most high-risk drivers accumulate elevated scores due to
 
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/48064deb-f8ef-4162-b097-ca96124bfe13" />     
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/6b19508e-6671-4d28-ab94-7769879f5e2b" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6b19508e-6671-4d28-ab94-7769879f5e2b" />
 
 
 ### Risk-Contributing Driving Behaviors:
